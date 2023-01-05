@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\KiuAdmin\c++ projects\Project1\Project1\main.cpp(23,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\KiuAdmin\c++ projects\Project1\Project1\main.cpp(64,18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\KiuAdmin\c++ projects\Project1\Project1\main.cpp(71,19): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\KiuAdmin\c++ projects\Project1\x64\Debug\one note.exe
